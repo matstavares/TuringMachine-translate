@@ -56,7 +56,7 @@ else: removeStationary = False
 ##########################
 def can_typecast(state):
   try:
-    eval('int')(state)
+    exec("int('{}')".format(state))
   except ValueError:
     return False
   return True
