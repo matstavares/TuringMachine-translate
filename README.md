@@ -21,6 +21,6 @@ args:
 
 *-isDouble* <br>[the input file works on a tape with inifinite on both sides, so It will be translated to a tape with only one infinite side]<br>
 
-*-removeStationary* <br>[to remove stationary movement, the DEFAULT is to keep stationary] <br>
+*-removeStationary* <br>[to remove stationary movement, the DEFAULT is to keep stationary] <br><br>
 
 If no input is set, It will look for "sameamount10.in" and assume that it works with two sides (-isDouble) and It will translate it to a semi-infinity tape<br>
