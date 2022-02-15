@@ -1,4 +1,5 @@
 # TuringMachine-translator
+
 From infinity tape to a semi-infinity tape (as used in, eg, Sipser) and also on the other way...and removing stationary movement, because why not?
 
 Using http://morphett.info/turing/turing.html to simulate
@@ -7,9 +8,9 @@ Reserved symbols are #, &, %, £, ¢, §
 
 ## How to use
 
-python infinity2semi-infinity.py
-or 
-python3 infinity2semi-infinity.py 
+python infinity2semi-infinity.py<br>
+or <br>
+python3 infinity2semi-infinity.py <br>
 
 args:
 
