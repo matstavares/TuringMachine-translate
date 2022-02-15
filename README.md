@@ -13,8 +13,8 @@ python3 infinity2semi-infinity.py
 
 args:
 
--i <name with extension of the input file> 
--o <name with extension of the output file> 
+-i \<name with extension of the input file\> 
+-o \<name with extension of the output file\> 
 
 -isOne [the input file works on a tape with only one infinite side, so It will be translated to a tape with two infinities sides]
 
