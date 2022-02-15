@@ -8,9 +8,9 @@ Reserved symbols are #, &, %, £, ¢, §
 
 ## How to use
 
-python infinity2semi-infinity.py<br>
+python inf2semi-inf.py <br>
 or <br>
-python3 infinity2semi-infinity.py <br>
+python3 inf2semi-inf.py <br>
 
 args:
 
