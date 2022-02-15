@@ -17,10 +17,10 @@ args:
 *-i* \<name with extension of the input file\> <br>
 *-o* \<name with extension of the output file\> <br>
 
-*-isOne* [the input file works on a tape with only one infinite side, so It will be translated to a tape with two infinities sides]<br>
+*-isOne* <br>[the input file works on a tape with only one infinite side, so It will be translated to a tape with two infinities sides]<br>
 
-*-isDouble* [the input file works on a tape with inifinite on both sides, so It will be translated to a tape with only one infinite side]<br>
+*-isDouble* <br>[the input file works on a tape with inifinite on both sides, so It will be translated to a tape with only one infinite side]<br>
 
-*-removeStationary* [to remove stationary movement, the DEFAULT is to keep stationary] <br>
+*-removeStationary* <br>[to remove stationary movement, the DEFAULT is to keep stationary] <br>
 
 If no input is set, It will look for "sameamount10.in" and assume that it works with two sides (-isDouble) and It will translate it to a semi-infinity tape<br>
